@@ -4,13 +4,16 @@
   </a>
 </div>
 
-#
 
+
+
+#
 - 🔭 Estou trabalhando no meu TCC, como desenvolvedor back-end/banco de dados
 - 🌱 Estou estudando JavaScript/NodeJS e Mysql
 - 😄 Pronomes: ele/dele
 
 #
+<img align="right" alt="" height="190px" src="./purple-rain-prince.gif">
 
 <h3 align="left">-- Stack --</h3>
 <img 
