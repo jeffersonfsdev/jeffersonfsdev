@@ -1,8 +1,8 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+<dividir alinhar10"centro"alinhar
+  <alinharhref="https://git.io/typing-svg">
+    <imagem fonte="https://readme-typing-svg.demolab.com?font=Fira+Code&peso=500&tamanho=22&pausa=1000&cor=F1F1F1&centro=verdadeiro&vCenter=verdadeiro&aleatório=falso&largura=524&linhas=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Digitando SVG">
   </a>
-</div>
+</dividir>
 
 
 
@@ -13,40 +13,40 @@
 - 😄 Pronomes: ele/dele
 
 #
-<img align="right" alt="" height="190px" src="./purple-rain-prince.gif">
+<imagem alinhar="certo" alt="" alta"preenchimento direto: 10px;""190px" fonte="./príncipe da chuva rosa.gif">
 
-<h3 align="left">-- Stack --</h3>
-<img 
-    align="left" 
+<h3 alinhar="esquerda">-- Pilha --</h3>
+<imagem 
+    alinhar="esquerda" 
     alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    título="HTML" 
+    largura="30px" 
+    estilo="preenchimento direto: 10px;" 
+    fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img 
-    align="left" 
+<imagem 
+    alinhar="esquerda" 
     alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    título="CSS"
+    largura="30px" 
+    estilo="preenchimento direto: 10px;""preenchimento direto: 10px;"
+    fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
-    align="left" 
+<imagem 
+    alinhar="esquerda" 
     alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    título="JavaScript"
+    largura="30px" 
+    estilo="preenchimento direto: 10px;" 
+    fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+<imagem 
+    alinhar="esquerda" 
+    alt="Vento de cauda" 
+    título="Vento de cauda"
+    largura="30px" 
+    estilo="preenchimento direto: 10px;" 
+    fonte="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
     align="left" 
