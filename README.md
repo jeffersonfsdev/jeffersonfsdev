@@ -1,5 +1,5 @@
 <dividir alinhar10"centro"alinhar
-  <alinharhref="https://git.io/typing-svg">
+  <alinharhref= "https://git.io/typing-svg" >
     <imagem fonte="https://readme-typing-svg.demolab.com?font=Fira+Code&peso=500&tamanho=22&pausa=1000&cor=F1F1F1&centro=verdadeiro&vCenter=verdadeiro&aleatório=falso&largura=524&linhas=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Digitando SVG">
   </a>
 </dividir>
