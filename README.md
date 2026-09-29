@@ -13,7 +13,6 @@
 - 😄 Pronomes: ele/dele
 
 #
-<imagem alinhar="certo" alt="" alta"preenchimento direto: 10px;""190px" fonte="./príncipe da chuva rosa.gif">
 
 <h3 alinhar="esquerda">-- Pilha --</h3>
 <imagem 
